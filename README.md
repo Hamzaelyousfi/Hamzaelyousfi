@@ -19,7 +19,7 @@
   - 🌐 Advanced frontend design
   - 📊 API integrations
 
-- 🛠️ Building [Refer Plans](https://github.com/your-project-link) & [IsliWeb](https://github.com/your-agency-link)!
+- 🛠️ Building [Refer Plans](https://referplans.com/) & [ScanyAi](https://scanyai.com/)!
 
 ## 📈 GitHub Stats
 
@@ -28,20 +28,23 @@
 
 ## 🤝 Connect with Me!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzaelyousfi)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-el-yousfi-web-dev/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/HamzaElyousfi8)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:elyousfiha68@gmail.com)
 
 ## 🚀 Featured Projects
 
-### 🌐 **[Refer Plans](https://github.com/your-project-link)**
+### 🌐 **[Refer Plans](https://referplans.com/)**
 - **Tech Stack:** Next.js, Laravel, Filament
 - **Description:** A SaaS product for health insurance companies to share leads and manage operations efficiently.
 
-### 🌿 **[IsliWeb](https://github.com/your-agency-link)**
-- **Tech Stack:** TypeScript, Next.js, Payload CMS
-- **Description:** A web development agency offering unique digital solutions.
-
+### 🌿 **[ScanyAi](https://github.com/your-agency-link)**
+- **Tech Stack:** TypeScript, Next.js
+- **Description:** AI Tools Directory.
+  
+### 🌿 **[scriptdiscounts](https://scriptdiscounts.com/)**
+- **Tech Stack:** TypeScript, Next.js, Laravel
+- **Description:** discounts for medicament prescriptions
 ---
 
 Thanks for stopping by! 😄 Let's collaborate on exciting projects! 🎉
